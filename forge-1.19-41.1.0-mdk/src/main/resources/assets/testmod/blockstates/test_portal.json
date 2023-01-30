@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "axis=z": { "model": "testmod:block/test_portal_ew" },
-    "axis=x": { "model": "testmod:block/test_portal_ns" }
-  }
-}
