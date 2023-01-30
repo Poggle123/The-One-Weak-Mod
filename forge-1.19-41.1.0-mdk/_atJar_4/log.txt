@@ -1,7 +1,0 @@
-Java Launcher: C:\Users\Henpe\.jdks\corretto-17.0.6\bin\java.exe
-Arguments: '--inJar, C:\Users\Henpe\Music\Desktop\Test Mod\forge-1.19-41.1.0-mdk\build\fg_cache\net\minecraftforge\forge\1.19-41.1.0\forge-1.19-41.1.0-injected.jar, --outJar, C:\Users\Henpe\Music\Desktop\Test Mod\forge-1.19-41.1.0-mdk\build\fg_cache\net\minecraftforge\forge\1.19-41.1.0_mapped_official_1.19\forge-1.19-41.1.0_mapped_official_1.19.jar, --logFile, accesstransform.log, --atFile, C:\Users\Henpe\Music\Desktop\Test Mod\forge-1.19-41.1.0-mdk\src\main\resources\META-INF\accesstransformer.cfg, --atFile, C:\Users\Henpe\Music\Desktop\Test Mod\forge-1.19-41.1.0-mdk\build\_atJar_4\parent_at.cfg'
-Classpath:
- - C:\Users\Henpe\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
-Working directory: C:\Users\Henpe\Music\Desktop\Test Mod\forge-1.19-41.1.0-mdk\build\_atJar_4
-Main class: net.minecraftforge.accesstransformer.TransformerProcessor
-====================================
